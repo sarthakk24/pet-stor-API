@@ -9,7 +9,7 @@ export class DBInstance {
 
   //Connection Configutation
   private opts: object = {
-    appname: "piechips",
+    appname: "GDSC",
     useNewUrlParser: true,
     useUnifiedTopology: true,
     maxIdleTimeMS: 5000, //time a connection can be idle before it's closed.\
