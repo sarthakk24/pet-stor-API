@@ -1,8 +1,8 @@
-Made following routes :
-1: health check (/api/healthcheck)
-2: Add pets to the pet store (/api/pets/create)
-3: Remove pets from pet store (/api/pets/delete/:id)
-4: Get all pets from data base (/api/pets/all)
+- Made following routes :
+- 1: health check (/api/healthcheck)
+- 2: Add pets to the pet store (/api/pets/create)
+- 3: Remove pets from pet store (/api/pets/delete/:id)
+- 4: Get all pets from data base (/api/pets/all)
 
 <div align="center">
   <img style="margin-right: 16px;" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="60" />
